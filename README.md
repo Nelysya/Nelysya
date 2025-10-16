@@ -40,6 +40,4 @@ Git · Docker · REST APIs · GraphQL · PostgreSQL · MongoDB · CI/CD · VS Co
 
 ## 📫 Contact Me
 
-- Email: yourname@example.com  
-- LinkedIn: linkedin.com/in/username  
-- Twitter / Telegram / dll: @username  
+- Twitter : [@username  ](https://x.com/NelyVerse)
